@@ -3,7 +3,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      Hello from page. 
+      Hello from frontend. 
     </div>
   )
 }
